@@ -1,0 +1,2 @@
+# GRIP-
+Supervised machine learning
